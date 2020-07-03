@@ -2,6 +2,29 @@
   <img src="https://github.com/100DaysOfCloud/100DaysOfCloud/blob/master/banner.png?raw=truee">
 </p>
 
+<p align="center">
+🚧  <b>This template is under construction!</b>, PLEASE WAIT for its completion before starting the challenge. 🚧
+</p>
+
+## How to use this template:
+
+1. Read about the challenge and register at [#100DaysOfCloud](https://100DaysOfCloud.com)
+2. Fork this repo at [100DaysOfCloud/100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloud/)
+3. Fill in your details where you see this icon  ✍️
+4. Get mini-project ideas from [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+5. Document your daily projects as markdown files that link them to your journey page and with a short summary
+
+## [✍️ Your Name]'s Cloud Journey
+
+[✍️ Introduce yourself]
+
+[✍️ Tell us why you started this challenge]
+
+[✍️ Tell us where you want to be at the end of the challenge]
+
+* [✍️ Link to your Twitter]
+* [✍️ Link to your LinkedIn]
+
 ## Stepping out the door
 
 - [ ] ☁️ 1  >
