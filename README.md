@@ -110,7 +110,7 @@
 - [ ] ☁️ 69 >
 - [ ] ☁️ 70 >
 
-# Resting at the Lagoon
+## Resting at the Lagoon
 
 - [ ] ☁️ 71 >
 - [ ] ☁️ 72 >
@@ -122,7 +122,7 @@
 - [ ] ☁️ 79 >
 - [ ] ☁️ 80 >
 
-# Up into the mountains
+## Up into the mountains
 
 - [ ] ☁️ 81 >
 - [ ] ☁️ 82 >
@@ -134,7 +134,7 @@
 - [ ] ☁️ 89 >
 - [ ] ☁️ 90 >
 
-# Into the sky to touch the cloud!
+## Into the sky to touch the cloud!
 
 - [ ] ☁️ 91 >
 - [ ] ☁️ 92 >
