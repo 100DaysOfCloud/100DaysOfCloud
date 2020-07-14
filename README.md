@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/100DaysOfCloud/100DaysOfCloud/blob/master/banner.png?raw=truee">
+  <img src="banner.png">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 1. Read about the challenge and register at [#100DaysOfCloud](https://100DaysOfCloud.com)
 2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
 3. Fork this repo at [100DaysOfCloud/100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloud/)
-4. Fill in your details where you see this icon  ✍️
+4. Fill in your details where you see this icon ✍️
 5. Get mini-project ideas from [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 6. Document your daily projects as markdown files that link them to your journey page and with a short summary
 
@@ -23,28 +23,28 @@
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-* [✍️ Link to your Twitter]
-* [✍️ Link to your LinkedIn]
+- [✍️ Link to your Twitter]
+- [✍️ Link to your LinkedIn]
 
 ## Stepping out the door
 
-- [ ] ☁️ 0  > ✍️ SEC01-AWS100 [My Day Article](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md)
-- [ ] ☁️ 1  >
-- [ ] ☁️ 2  >
-- [ ] ☁️ 3  >
-- [ ] ☁️ 4  >
-- [ ] ☁️ 5  >
-- [ ] ☁️ 6  >
-- [ ] ☁️ 7  >
-- [ ] ☁️ 8  >
-- [ ] ☁️ 9  >
+- [ ] ☁️ 0 > ✍️ SEC01-AWS100 [My Day Article](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md)
+- [ ] ☁️ 1 >
+- [ ] ☁️ 2 >
+- [ ] ☁️ 3 >
+- [ ] ☁️ 4 >
+- [ ] ☁️ 5 >
+- [ ] ☁️ 6 >
+- [ ] ☁️ 7 >
+- [ ] ☁️ 8 >
+- [ ] ☁️ 9 >
 - [ ] ☁️ 10 >
 
 ## Walking down the road
 
 - [ ] ☁️ 11 >
 - [ ] ☁️ 12 >
-- [ ] ☁️ 13  >
+- [ ] ☁️ 13 >
 - [ ] ☁️ 14 >
 - [ ] ☁️ 15 >
 - [ ] ☁️ 16 >
@@ -57,7 +57,7 @@
 
 - [ ] ☁️ 21 >
 - [ ] ☁️ 22 >
-- [ ] ☁️ 23  >
+- [ ] ☁️ 23 >
 - [ ] ☁️ 24 >
 - [ ] ☁️ 25 >
 - [ ] ☁️ 26 >
@@ -83,7 +83,7 @@
 
 - [ ] ☁️ 41 >
 - [ ] ☁️ 42 >
-- [ ] ☁️ 43  >
+- [ ] ☁️ 43 >
 - [ ] ☁️ 44 >
 - [ ] ☁️ 45 >
 - [ ] ☁️ 46 >
@@ -96,7 +96,7 @@
 
 - [ ] ☁️ 51 >
 - [ ] ☁️ 52 >
-- [ ] ☁️ 53  >
+- [ ] ☁️ 53 >
 - [ ] ☁️ 54 >
 - [ ] ☁️ 55 >
 - [ ] ☁️ 56 >
@@ -135,7 +135,7 @@
 
 - [ ] ☁️ 81 >
 - [ ] ☁️ 82 >
-- [ ] ☁️ 83  >
+- [ ] ☁️ 83 >
 - [ ] ☁️ 84 >
 - [ ] ☁️ 85 >
 - [ ] ☁️ 86 >
@@ -148,7 +148,7 @@
 
 - [ ] ☁️ 91 >
 - [ ] ☁️ 92 >
-- [ ] ☁️ 93  >
+- [ ] ☁️ 93 >
 - [ ] ☁️ 94 >
 - [ ] ☁️ 95 >
 - [ ] ☁️ 96 >
@@ -156,4 +156,3 @@
 - [ ] ☁️ 98 >
 - [ ] ☁️ 99 >
 - [ ] ☁️ 100 >
-

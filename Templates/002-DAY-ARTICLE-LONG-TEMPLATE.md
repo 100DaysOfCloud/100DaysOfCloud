@@ -1,11 +1,11 @@
 [Good example post](https://johanrin.com/what-exactly-is-azure-resource-group/)
 
 **Add a cover photo like:**
-![](coverphoto.png)
+![placeholder image](https://via.placeholder.com/1200x600)
 
 # New post title here
 
-## Introduction
+### Introduction
 
 ✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
@@ -20,8 +20,8 @@
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors trying to learn and understand the cloud topic or completing micro-project
-- 🖼️ Show as many screenshot as possible so others can experience what your cloud research
+- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
+- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
 ## Try yourself
 
@@ -29,16 +29,15 @@
 
 ### Step 1 — Summary of Step
 
-![Screenshot](screenshot.png)
+![Screenshot](https://via.placeholder.com/500x300)
 
 ### Step 1 — Summary of Step
 
-![Screenshot](screenshot.png)
+![Screenshot](https://via.placeholder.com/500x300)
 
 ### Step 3 — Summary of Step
 
-![Screenshot](screenshot.png)
-
+![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
@@ -46,7 +45,7 @@
 
 ## Next Steps
 
-✍️ Descibe what you think you think you want to do next.
+✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
