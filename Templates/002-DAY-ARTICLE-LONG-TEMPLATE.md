@@ -11,7 +11,7 @@
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences base knowledge information before describing the the details of the cloud service or topic
+✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
 ## Use Case
 

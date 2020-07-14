@@ -92,7 +92,7 @@
 - [ ] ☁️ 49 >
 - [ ] ☁️ 50 >
 
-## Winding through the cayons
+## Winding through the canyons
 
 - [ ] ☁️ 51 >
 - [ ] ☁️ 52 >
