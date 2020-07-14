@@ -28,6 +28,7 @@
 
 ## Stepping out the door
 
+- [ ] ☁️ 0  > ✍️ SEC01-AWS100 [My Day Article](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md)
 - [ ] ☁️ 1  >
 - [ ] ☁️ 2  >
 - [ ] ☁️ 3  >
