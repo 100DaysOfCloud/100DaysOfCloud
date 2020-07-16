@@ -3,7 +3,7 @@
 
 # New post title here
 
-### Introduction
+## Introduction
 
 ✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
