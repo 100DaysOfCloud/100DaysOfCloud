@@ -1,11 +1,9 @@
-[Good example post](https://johanrin.com/what-exactly-is-azure-resource-group/)
-
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
 # New post title here
 
-### Introduction
+## Introduction
 
 ✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
