@@ -1,5 +1,3 @@
-[Good example post](https://johanrin.com/what-exactly-is-azure-resource-group/)
-
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
