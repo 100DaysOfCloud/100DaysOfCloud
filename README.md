@@ -2,10 +2,6 @@
   <img src="banner.png">
 </p>
 
-<p align="center">
-🚧  <b>This template is under construction!</b>, PLEASE WAIT for its completion before starting the challenge. 🚧
-</p>
-
 ## How to use this template:
 
 1. Read about the challenge and register at [#100DaysOfCloud](https://100DaysOfCloud.com)
