@@ -27,7 +27,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Stepping out the door
 
-- [ ] ☁️ 0 > ✍️ SEC01-AWS100 [My Day Article](Journey/000-My-First-Day.md)
+- [ ] ☁️ 0 > ✍️ SEC01-AWS100 [My Day Article](Journey/000-My-Zero-Day.md)
 - [ ] ☁️ 1 >
 - [ ] ☁️ 2 >
 - [ ] ☁️ 3 >
