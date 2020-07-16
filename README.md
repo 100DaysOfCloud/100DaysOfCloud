@@ -2,14 +2,17 @@
   <img src="banner.png">
 </p>
 
-## How to use this template:
-
-1. Read about the challenge and register at [#100DaysOfCloud](https://100DaysOfCloud.com)
+## The Challenge
+1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
 2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Fork this repo at [100DaysOfCloud/100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloud/)
-4. Fill in your details where you see this icon ✍️
-5. Get mini-project ideas from [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
-6. Document your daily projects as markdown files that link them to your journey page and with a short summary
+3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
+4. Using the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
+5. Update your main README to link back to your Day Journey article
+4. If you need ideas ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+
+## How to use this template:
+Fill in your details where you see this icon ✍️
+We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
 ## [✍️ Your Name]'s Cloud Journey
 
