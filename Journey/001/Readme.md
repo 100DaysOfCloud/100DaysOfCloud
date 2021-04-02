@@ -4,49 +4,40 @@
 # New post title here
 
 ## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I start this challenge, to learn every day doing labs / hands-on to improve my skills in aws cloud.
 
 ## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+I believe that to start a knowledge of technology is required, such as: processing, storage and communications (networks).
 
 ## Use Case
+To make the digital output of something, it is required: data processing, storing variables and communicating the results.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Store images from website, receive request to show image, send result and show on web page.
 
 ## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+I already have the AWS CCP certification and to obtain it, I designed my own learning guide, in which I registered the characteristics of the basic AWS services.
 
 ## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+Read and analyze the excel document that is attached
 
 ### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+Excel document --> (Journey\001\AWS-CCP-Resume.xlsx)
 
-### Step 3 — Summary of Step
+### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+AWS CPP (Journey\001\Aws-Ccp.jpeg)
 
 ## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+AWS CCP offers the knowledge and skills necessary for an effective general understanding of the AWS Cloud, regardless of the specific technical roles addressed by other AWS certifications.
 
 ## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+Prepare the path to get the certification AWS SAA-C02.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/juanmurillo72_aws-certified-cloud-practitioner-was-issued-activity-6699330149210460160-f8d4)
+
+:-)
