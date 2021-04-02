@@ -12,22 +12,23 @@
 
 ## How to use this template:
 Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+Juan Carlos Murillo Cardona 
+"@jcmc72"
 
-[✍️ Introduce yourself]
+Hi, I am Juan Carlos Murillo Cardona. I am an IT Project Manager with technical & engineering background, looking to better my skills and learn from the community.
 
-[✍️ Tell us why you started this challenge]
+To continuous improvement my learning journey and meet other cloud friends.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I would like to get the AWS Certified Solutions Architect - Associate (SAA-C02), and anothers certifications on AWS.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [@jcmc72] (https://twitter.com/jcmc72)
+- [LinkedIn] (https://www.linkedin.com/in/juanmurillo72/?locale=en_US) 
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [My First Day](Journey\001\Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
