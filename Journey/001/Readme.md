@@ -1,16 +1,15 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+
+# Azure Data Lake - A Brief Overview
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Azure Data Lake is a big container which stores data in it's native format. I am intrigued by the ability of a business user to quickly analyze data using data lake rather than waiting for months to have a first look on a traditional data-warehouse. Hence I want to summarize my learnings of building a data lake to do quick analytics.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
+A high level knowledge of Azure services and data is required.
+  
 ## Use Case
 
 - 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
@@ -18,8 +17,9 @@
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- 
+![image](https://user-images.githubusercontent.com/86571185/123587774-9edb3180-d79b-11eb-942b-a85f15e048e3.png)
+
 
 ## Try yourself
 
