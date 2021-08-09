@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![Notes](img/note.jpg)
 
 # New post title here
 
