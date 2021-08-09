@@ -23,7 +23,7 @@ I started this challenge because i am currenlty studying for the AWS Cloud Pract
 By the end of this challenge i would like to be working with the cloud. 
 
 - [Twitter](https://twitter.com/Alienell_)
-- [LinkedIn](hhttps://www.linkedin.com/in/anellsantos)
+- [LinkedIn](https://www.linkedin.com/in/anellsantos)
 - [Instagram](https://instagram.com/techvolutions)
 
 ## Stepping out the door
