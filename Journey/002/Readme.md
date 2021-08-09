@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![Notes](img/note.jpg)
+![Notes](100DaysOfCloud/img/note.jpg)
 
 # New post title here
 
