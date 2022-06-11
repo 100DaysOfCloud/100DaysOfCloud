@@ -1,52 +1,52 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
+# Good Start
 
-## Introduction
+## GIT Research
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- ✍️ I finished the acloud course... "Source Control with Git" I have a slightly better understanding of git but I still know practice makes perfect.
+- ✍️Hvent started anyting with python as yet.. need to find training material.
 
-## Prerequisite
+## Notes
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Create Repo / Fork
 
-## Use Case
+    git clone <remote>
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Clone Locally
 
-## Cloud Research
+Create New Branch
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+        git branch <new branch name>
 
-## Try yourself
+        git checkout <new branch name>
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+    or
 
-### Step 1 — Summary of Step
+        git switch -c <branch name>
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
+Make your modifications
 
-![Screenshot](https://via.placeholder.com/500x300)
+Add files to Repo
 
-### Step 3 — Summary of Step
+    git add .
 
-![Screenshot](https://via.placeholder.com/500x300)
+Commit files with proper Comment
 
-## ☁️ Cloud Outcome
+    git commit -m " blah blah"
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Push the files to repo
+    
+    git push -u origin <local branch name>
 
-## Next Steps
+Push files then Merge (Create a PR "Pull request") 
 
-✍️ Describe what you think you think you want to do next.
 
+#
+#
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Yatta](link)
