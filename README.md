@@ -6,9 +6,17 @@
 
 ## Yatta's Code Journey
 
-I started with CLOUD>.. but i noticed i wanted to do something else. I wanted to get into GIT and python. So i figured I will force myself to do this challenge.
+I started with 100DaysOfCloud.. but i noticed i wanted to do something else. I wanted to hit the basics. I wanted to get into GIT and python. So i figured I will force myself to do this 100Day... challenge.
 
 At the end of this challange I should have a better understanding of git and python
+
+- ✍️ A few months back i did one from [educative - Learn git the Hard Way](https://www.educative.io/courses/learn-git-hard-way?affiliate_id=5073518643380224) and even got a certificate :D
+
+<p align="center">
+  <img src="educativeGITcert.png">
+</p>
+
+
 
 - [@Yatta](https://twitter.com/Yatta)
 - [LinkedIn](https://www.linkedin.com/in/kenyattasenior)
