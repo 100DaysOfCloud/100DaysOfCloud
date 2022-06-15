@@ -1,52 +1,73 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
 
+# 2nd Day
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ Starting watching video on [Learning Python](https://www.youtube.com/watch?v=rfscVS0vtbw&t=2927s)
 
-## Prerequisite
+## What Did I learn??
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+* Setup & Hello World
 
-## Use Case
+* Drawing a Shape
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+* Variables & Data Types
 
-## Cloud Research
+* Working With Strings
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+* Working With Numbers
 
-## Try yourself
+* Getting Input From Users
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+* Building a Basic Calculator
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+## Python Notes
 
-### Step 1 — Summary of Step
+Variable
 
-![Screenshot](https://via.placeholder.com/500x300)
+	A container that stores certain info
+String
 
-### Step 3 — Summary of Step
+	a collection of alphabets, words or other characters.
+	When you are storing a string you do not need quotes " "
 
-![Screenshot](https://via.placeholder.com/500x300)
+Functions 
 
-## ☁️ Cloud Outcome
+	a little block of code performing a specfic operation 
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
 
-## Next Steps
+num1 = input("Enter a number: ")
+num2 = input("Enter another number: ")
+result = int(num1) + int(num2) 
 
-✍️ Describe what you think you think you want to do next.
+INT 
+
+    is looking for a WHOLE number
+
+float 
+
+    is a decimal number
+
+
+List
+
+    friends=["Kevin", "Karen", "Jim", "Leroy"]
+    print(friends[-2])
+
+		The above will print Jim
+
+friends=["Kevin", "Karen", "Jim", "Leroy"]
+
+--> Index position
+
+        Kevin = 0
+        Karen = 1
+        Jim   = 2
+
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[@Yatta](https://twitter.com/Yatta/status/1534917012102828032)
